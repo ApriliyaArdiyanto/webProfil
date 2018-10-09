@@ -1,0 +1,23 @@
+form ada 2:
+method :1.get (semua data terlihat url)
+	2.post(tidak,lebih aman)
+
+struktur form
+<form  method=""  action="">
+	<input type=""  name=""/>
+	<textarea> </textarea>
+	<select name "">
+		<option value=""> </option>
+	</select>
+</form>
+
+input ada 2 yang penting :	
+1.type: date,
+	text,
+	radio,
+	chekbox,
+	password,
+	file
+2.name
+
+ 
